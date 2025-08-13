@@ -1,6 +1,6 @@
 # 🎇 Kinetic-Chaos
 
-**A colorful, physics-driven animation where one ball bursts into many, bouncing, colliding, losing momentum, and settling under gravity — built in Python with `matplotlib` + `numpy`.** Perfect for showcasing motion physics, collision detection, and animation skills.
+**A colorful, physics-driven animation where one ball bursts into many, bouncing, colliding, losing momentum, and settling under gravity. Built in Python with `matplotlib` + `numpy`.** Perfect for showcasing motion physics, collision detection, and animation skills.
 
 ---
 
@@ -65,7 +65,7 @@ python exploding_balls.py
 
 ## 📄 License
 
-MIT License — free to use, modify, and share.
+MIT License: free to use, modify, and share.
 
 ---
 
