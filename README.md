@@ -40,8 +40,8 @@ python exploding_balls.py
 ## 🛠 Tech Stack
 
 * **Python 3**
-* **Matplotlib** — Animation and rendering
-* **NumPy** — Physics calculations
+* **Matplotlib**: Animation and rendering
+* **NumPy**: Physics calculations
 
 ---
 
