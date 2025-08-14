@@ -6,7 +6,7 @@
 
 ## 🎥 Demo
 
-![Exploding Balls Demo]([./Kinetic-Chaos.gif](https://github.com/abhayjeet-singh-tech/Kinetic-Chaos/blob/main/kinetic_chaos.gif))
+![Exploding Balls Demo](https://github.com/abhayjeet-singh-tech/Kinetic-Chaos/blob/main/Kinetic-Chaos.gif)
 
 *Above: Real-time simulation with multi-ball collisions and realistic physics decay.*
 
