@@ -31,10 +31,6 @@ pip install matplotlib numpy
 
 **Run the Simulation**
 
-```bash
-python exploding_balls.py
-```
-
 ---
 
 ## 🛠 Tech Stack
