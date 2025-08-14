@@ -6,7 +6,7 @@
 
 ## 🎥 Demo
 
-![Exploding Balls Demo](demo.gif)
+![Exploding Balls Demo](Kinetic-Chaos.gif)
 *Above: Real-time simulation with multi-ball collisions and realistic physics decay.*
 
 ---
